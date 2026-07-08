@@ -1,10 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hanisika%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20IoT%20%26%20ML%20Enthusiast%20%7C%20Building%20Scalable%20Solutions&descAlignY=62&descSize=16)
 
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Hanisika+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+React+Native;IoT+%26+ML+Integrations+%7C+Spring+Boot;Open+to+Exciting+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
@@ -77,49 +73,32 @@ public class Hanisika {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32--IoT-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanisika-collab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/hanisika-collab)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanisika-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/hanisika-collab)
-
-</div>
 
 ---
 
 ## Streak Stats
 
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=hanisika-collab&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
 ## Activity Graph
 
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanisika-collab&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/hanisika-collab)
-
-</div>
 
 ---
 
 ## Trophy Wall
 
-<div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=hanisika-collab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/hanisika-collab)
-
-</div>
 
 ---
 
@@ -156,21 +135,15 @@ public class Hanisika {
 
 ## Featured Projects
 
-<div align="center">
-
 | Project | Stack | Highlights |
 |---------|-------|------------|
 | [Smart LPG Leak Detector](https://github.com/hanisika-collab/SmartLPG) | React Native, ESP32, Firebase, ML | IoT real-time gas monitoring; ML predicts cylinder exhaustion; automated safety alerts |
 | [Therapy Scheduling Platform](https://patientmangementwebiste.netlify.app/) | React, Node.js, Express.js, MongoDB | Full-stack healthcare platform; real-time patient monitoring; scalable MongoDB schemas |
 | [HR Management System](https://github.com/hanisika-collab/HR-MobileApp) | React Native, Node.js, Express.js, MongoDB | Role-based mobile app; RBAC authentication; real-time employee and project management |
 
-</div>
-
 ---
 
 ## Achievements and Certifications
-
-<div align="center">
 
 | | Achievement | Details |
 |--|-------------|---------|
@@ -183,21 +156,15 @@ public class Hanisika {
 | 💬 | **Communication and Personality Dynamics — IBM** | Professional development certification by IBM |
 | 🚀 | **Immediate Joiner** | Available to start immediately — Tamil Nadu, India |
 
-</div>
-
 ---
 
 ## Education
-
-<div align="center">
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
 | 🎓 B.Tech Information Technology | Adhiyamaan College of Engineering (Autonomous), Hosur | 2022-2026 | CGPA: 8.38 |
 | 📘 HSC | Model School, Ramapuram | 2021-2022 | GPA: 8.50 |
 | 📗 SSLC | Model School, Ramapuram | 2019-2020 | GPA: 8.38 |
-
-</div>
 
 ---
 
@@ -215,15 +182,11 @@ public class Hanisika {
 
 ## Connect With Me
 
-<div align="center">
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hanisikasivakumar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanisika-sivakumar-42b10a342/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hanisika-collab)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://starlit-praline-93e566.netlify.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hanisika-collab&color=70a5fd&style=flat-square&label=Profile+Views)
-
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
