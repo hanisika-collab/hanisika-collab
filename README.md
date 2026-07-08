@@ -1,6 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hanisika%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20IoT%20%26%20ML%20Enthusiast%20%7C%20Building%20Scalable%20Solutions&descAlignY=62&descSize=16)
+# Hi there, I'm Hanisika S 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Hanisika+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+React+Native;IoT+%26+ML+Integrations+%7C+Spring+Boot;Open+to+Exciting+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+MERN+Stack;React+Native+%7C+IoT+%2B+ML+Enthusiast;Spring+Boot+%7C+Node.js+%7C+MongoDB;Open+to+Exciting+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+> *Full-Stack Developer | IoT + ML Enthusiast | Building Scalable Solutions*
 
 ---
 
@@ -11,11 +13,11 @@
 ```java
 public class Hanisika {
 
-    String name           = "Hanisika S";
-    String location       = "Namakkal, Tamil Nadu, India";
-    String degree         = "B.Tech Information Technology (2022-2026)";
-    String college        = "Adhiyamaan College of Engineering, Hosur";
-    float  cgpa           = 8.38f;
+    String name     = "Hanisika S";
+    String location = "Namakkal, Tamil Nadu, India";
+    String degree   = "B.Tech IT (2022-2026)";
+    String college  = "Adhiyamaan College of Engineering, Hosur";
+    float  cgpa     = 8.38f;
 
     String[] stack = {
         "Java", "JavaScript", "Python",
@@ -28,7 +30,7 @@ public class Hanisika {
         "Docker + CI/CD", "Advanced ML Integration"
     };
 
-    String funFact = "I built an IoT LPG leak detector with ML predictions!";
+    String funFact = "Built an IoT LPG leak detector with ML predictions!";
 
     String motto() {
         return "Code. Build. Solve. Repeat.";
@@ -147,14 +149,14 @@ public class Hanisika {
 
 | | Achievement | Details |
 |--|-------------|---------|
-| 🎓 | **B.Tech Information Technology** | CGPA: 8.38 — Adhiyamaan College of Engineering (2022-2026) |
-| ☁️ | **Cloud Computing — NPTEL** | Nationally recognized certification in Cloud fundamentals |
-| 🛒 | **Software Development — Amazon** | Industry-recognized course by Amazon |
-| 🌐 | **Full Stack Development — Novi Tech** | End-to-end full-stack engineering certification |
-| ⚛️ | **Front End Development — Meta** | Meta professional front-end development program |
-| 🤖 | **AI Fundamentals and Problem Solving — IBM** | AI and analytical thinking certification by IBM |
-| 💬 | **Communication and Personality Dynamics — IBM** | Professional development certification by IBM |
-| 🚀 | **Immediate Joiner** | Available to start immediately — Tamil Nadu, India |
+| 🎓 | **B.Tech Information Technology** | CGPA: 8.38 - Adhiyamaan College of Engineering (2022-2026) |
+| ☁️ | **Cloud Computing - NPTEL** | Nationally recognized certification in Cloud fundamentals |
+| 🛒 | **Software Development - Amazon** | Industry-recognized course by Amazon |
+| 🌐 | **Full Stack Development - Novi Tech** | End-to-end full-stack engineering certification |
+| ⚛️ | **Front End Development - Meta** | Meta professional front-end development program |
+| 🤖 | **AI Fundamentals and Problem Solving - IBM** | AI and analytical thinking certification by IBM |
+| 💬 | **Communication and Personality Dynamics - IBM** | Professional development certification by IBM |
+| 🚀 | **Immediate Joiner** | Available to start immediately - Tamil Nadu, India |
 
 ---
 
@@ -188,5 +190,3 @@ public class Hanisika {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://starlit-praline-93e566.netlify.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hanisika-collab&color=70a5fd&style=flat-square&label=Profile+Views)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
